@@ -1,0 +1,2 @@
+This is a text file 
+I am playing with the pull and push commands of the git
